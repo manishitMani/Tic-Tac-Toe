@@ -22,3 +22,8 @@ some inbuilt java classes and methods and many more.
 4. The COMPUTER_PLAYER class
    this class also inherits the properties of PLAYER class
    it also implements the abstract method of PLAYER class and uses a inbuild Java method to generate random positions of move.
+   
+5. Image
+    
+   ![Screenshot (49)](https://user-images.githubusercontent.com/105004597/227426601-0d2ade67-99f4-4c56-8d6c-25841df2592b.png)
+
